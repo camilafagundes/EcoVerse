@@ -1,9 +1,9 @@
 # ⚡ Plataforma EcoVerse
 ### _Gestão e Compartilhamento de Energia Comunitária (P2P, com blockchain opcional)_
 
-![GitHub last commit](https://img.shields.io/github/last-commit/SeuUsuario/eco-verse)
-![GitHub issues](https://img.shields.io/github/issues/SeuUsuario/eco-verse)
-![GitHub stars](https://img.shields.io/github/stars/SeuUsuario/eco-verse?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/camilafagundes/eco-verse)
+![GitHub issues](https://img.shields.io/github/issues/camilafagundes/eco-verse)
+![GitHub stars](https://img.shields.io/github/stars/camilafagundes/eco-verse?style=social)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-MVP%20em%20desenvolvimento-blue)
 
